@@ -9,5 +9,5 @@ works with
 
 ------
 
-<img src="https://github.com/DenAnger/Profile/blob/master/iPhone%20SE%20(2nd%20generation)%20-%2001.png" width="300"> <img src="https://github.com/DenAnger/Profile/blob/master/iPhone%20SE%20(2nd%20generation)%20-%2002.png" width="300"> <img src="https://github.com/DenAnger/Profile/blob/master/iPhone%20SE%20(2nd%20generation)%20-%2003.png" width="300">
-<img src="https://github.com/DenAnger/Profile/blob/master/iPhone%20SE%20(2nd%20generation)%20-%2004.png" width="300"> <img src="https://github.com/DenAnger/Profile/blob/master/iPhone%20SE%20(2nd%20generation)%20-%2005.png" width="300"> <img src="https://github.com/DenAnger/Profile/blob/master/iPhone%20SE%20(2nd%20generation)%20-%2006.png" width="300">
+<img src="https://github.com/DenAnger/Profile/blob/master/iPhone%20SE%20(2nd%20generation)%20-%2001.png" width="250"> <img src="https://github.com/DenAnger/Profile/blob/master/iPhone%20SE%20(2nd%20generation)%20-%2002.png" width="250"> <img src="https://github.com/DenAnger/Profile/blob/master/iPhone%20SE%20(2nd%20generation)%20-%2003.png" width="250">
+<img src="https://github.com/DenAnger/Profile/blob/master/iPhone%20SE%20(2nd%20generation)%20-%2004.png" width="250"> <img src="https://github.com/DenAnger/Profile/blob/master/iPhone%20SE%20(2nd%20generation)%20-%2005.png" width="250"> <img src="https://github.com/DenAnger/Profile/blob/master/iPhone%20SE%20(2nd%20generation)%20-%2006.png" width="250">
